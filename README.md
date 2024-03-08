@@ -2,6 +2,7 @@
 Projet du module Programmation Web de L2 ISIL section B: développement full-stack d'un site web pour le club d'informatique de la fac (MicroClub)
 
 # Potentielle amélioration
+Utiliser des frameworks plus sophistiqués
 Changer de langage pour la manipulation de la base de données <br>
 Scrapping (à partir du VRAI site) pour garder les actualités du club à jour 
 
