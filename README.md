@@ -1,5 +1,5 @@
 # Présentation
-Projet du module Programmation Web de L2 ISIL section B: développement full-stack d'un site web puor le club d'informatique de la fac (MicroClub)
+Projet du module Programmation Web de L2 ISIL section B: développement full-stack d'un site web pour le club d'informatique de la fac (MicroClub)
 
 # Matériel utilisé:
 
