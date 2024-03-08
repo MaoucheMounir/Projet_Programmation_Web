@@ -3,7 +3,7 @@ Projet du module Programmation Web de L2 ISIL section B: développement full-sta
 
 # Matériel utilisé:
 
-Base De Données: MySQL v8.0.27
+Base De Données: MySQL v8.0.27 <br>
 Serveur local Apache v2.4.51 via Wampserver v3.2.6
 
 # Langages utilisés: 
