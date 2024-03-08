@@ -1,11 +1,6 @@
 # Présentation
 Projet du module Programmation Web de L2 ISIL section B: développement full-stack d'un site web pour le club d'informatique de la fac (MicroClub)
 
-# Potentielle amélioration
-Utiliser des frameworks plus sophistiqués
-Changer de langage pour la manipulation de la base de données <br>
-Scrapping (à partir du VRAI site) pour garder les actualités du club à jour 
-
 # Matériel utilisé:
 
 Base De Données: MySQL v8.0.27 <br>
@@ -17,6 +12,12 @@ Serveur local Apache v2.4.51 via Wampserver v3.2.6
 - JavaScript : Modification dynamique du site et interactions avec l'utilisateur. 
 ## Back-end :
 - PhP V7.4.26 : Manipulation de la base de données.
+
+# Potentielle amélioration
+Utiliser des frameworks plus sophistiqués
+Changer de langage pour la manipulation de la base de données <br>
+Scrapping (à partir du VRAI site) pour garder les actualités du club à jour 
+
 
 # Notes:
 
