@@ -14,9 +14,9 @@ Serveur local Apache v2.4.51 via Wampserver v3.2.6
 - PhP V7.4.26 : Manipulation de la base de données.
 
 # Potentielle amélioration
-Utiliser des frameworks plus sophistiqués
-Changer de langage pour la manipulation de la base de données <br>
-Scrapping (à partir du VRAI site) pour garder les actualités du club à jour 
+- Utiliser des frameworks plus sophistiqués
+- Changer de langage pour la manipulation de la base de données 
+- Scrapping (à partir du vrai site) pour garder les actualités du club à jour 
 
 
 # Notes:
